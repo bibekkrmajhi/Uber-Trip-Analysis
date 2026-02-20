@@ -178,6 +178,8 @@ Lag features significantly improved model accuracy.
 
 ### 📊 Streamlit Dashboard
 
+![Streamlit Dashboard](dashboard.png)
+
 Interactive dashboard includes:
 
 - KPI metrics
@@ -234,3 +236,4 @@ streamlit run dashboard/Streamlit.py
 
 
 This project demonstrates strong end-to-end data analytics capabilities, combining SQL analytics, time series analysis, predictive modeling, and dashboard development to generate actionable business insights.
+
