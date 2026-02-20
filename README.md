@@ -51,6 +51,7 @@ This project demonstrates strong capabilities in:
 ### 📊 Dataset Information
 
 Dataset: Uber TLC FOIL Response Dataset (2014)
+
 Download Link: https://drive.google.com/drive/folders/18NQlkW0fl3rEkj8M5uZ_W7Kbg5axecIN?usp=sharing
 
 Contains:
@@ -230,5 +231,6 @@ streamlit run dashboard/Streamlit.py
 
 
 ### 🏆 Conclusion
+
 
 This project demonstrates strong end-to-end data analytics capabilities, combining SQL analytics, time series analysis, predictive modeling, and dashboard development to generate actionable business insights.
