@@ -44,9 +44,9 @@ This project demonstrates strong capabilities in:
 | Visualization    | Matplotlib, Seaborn, Plotly |
 | Time Series      | Statsmodels                 |
 | Machine Learning | Scikit-learn                |
-| Dashboard        | Streamlit                   |
+| BI Dashboard     | Power BI                    |
+| Web Dashboard    | Streamlit                   |
 | Environment      | Jupyter Notebook, VS Code   |
-
 
 ### 📊 Dataset Information
 
@@ -176,6 +176,43 @@ Lag features significantly improved model accuracy.
 
 - Use forecasting model for driver scheduling optimization
 
+ ### 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to visualize Uber trip demand patterns, including peak hours, weekday trends, and monthly growth.
+
+The dashboard provides key insights through KPI metrics, hourly demand analysis, heatmaps, and trend visualizations.
+
+#### Dashboard Preview
+
+![Power BI Dashboard](PowerBi_dashboard.png)
+
+#### Key Dashboard Features
+
+- KPI Cards for Total Trips, Average Trips, and Peak Demand
+
+- Hourly Demand Analysis to identify peak travel times
+
+- Day-of-Week Comparison to analyze weekday vs weekend activity
+
+- Monthly Trend Analysis to detect seasonal patterns
+
+- Demand Heatmap (Hour vs Day) to highlight high-demand periods
+
+- Interactive Filters for Month and DayOfWeek selection
+
+- Business Insights Panel summarizing key findings
+
+#### Tools Used
+
+Power BI
+
+DAX
+
+Data Modeling
+
+Data Visualization
+
+
 ### 📊 Streamlit Dashboard
 
 ![Streamlit Dashboard](dashboard.png)
@@ -236,4 +273,5 @@ streamlit run dashboard/Streamlit.py
 
 
 This project demonstrates strong end-to-end data analytics capabilities, combining SQL analytics, time series analysis, predictive modeling, and dashboard development to generate actionable business insights.
+
 
